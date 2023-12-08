@@ -1,0 +1,24 @@
+Host an_da
+	HostName 101.35.203.216
+	User an_da
+Host myserver
+	HostName 101.35.203.216
+	User root
+Host acs
+	HostName 101.35.203.216
+	User acs
+Host django
+	HostName 101.35.203.216
+	User anda
+	Port 20000
+Host hexo
+	HostName 101.35.203.216
+	User hexo
+	Port 18000
+Host Git
+	HostName 101.35.203.216
+	User git
+	Port 18000
+# Host github.com
+#	User git
+#	ProxyCommand nc -X connect -x 127.0.0.1:10005 %h %p
