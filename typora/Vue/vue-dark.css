@@ -12,7 +12,7 @@
     --bg-color: #1d1d1d;
     --item-hover-bg-color: var(--select-text-bg-color);
     --text-color: #aaaaaa;
-    --font-sans-serif: 'Source Sans Pro', sans-serif !important;
+    --font-sans-serif: 'Fira Code', 'Source Sans Pro', sans-serif !important;
     --font-monospace: 'Fira Code', 'Roboto Mono', monospace !important;
 }
 

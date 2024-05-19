@@ -3,7 +3,7 @@
 :root {
     --side-bar-bg-color: #fff;
     --control-text-color: #777;
-    --font-sans-serif: 'Ubuntu', 'Source Sans Pro', sans-serif !important;
+    --font-sans-serif: 'Fira Code', 'Ubuntu', 'Source Sans Pro', sans-serif !important;
     --font-monospace: 'Fira Code', 'Roboto Mono', monospace !important;
 }
 
